@@ -1,0 +1,1 @@
+postgresql://recipes_db_lw59_user:7Jvo0lYdJfDCyEVqaJjvYgIxnDCMqgyu@dpg-d7tebekm0tmc73clkr8g-a.singapore-postgres.render.com/recipes_db_lw59
